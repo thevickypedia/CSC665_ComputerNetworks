@@ -1,0 +1,8 @@
+##Cron job to make the below script run every minute 24x7
+#* * * * * /home/vignesh/Desktop/project/internetmonitor.sh
+#* * * * * /home/vignesh/Desktop/project/intranetmonitor.sh
+
+##Cron job to purge old logs
+#* * * * * /home/vignesh/Desktop/project/purge.sh
+
+#* * * * * /home/vignesh/Desktop/project/hostmonitor.sh
