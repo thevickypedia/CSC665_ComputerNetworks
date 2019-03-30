@@ -11,14 +11,14 @@ Prerequisites:
 5. crontab entry
 
 Contents of the directory:
- CSC_665_Project_Report.docx
- CSC_665_Project_Slides.pptx
- Final_Demo.mp4
- crontab.txt
- hostmonitor.sh (to monitor a host)
- internetmonitor.sh (to monitor any url on the web)
- ondemand.sh (to provide website host in command line)
- purge.sh (to purge the log files older than 30 minutes)
+* CSC_665_Project_Report.docx
+* CSC_665_Project_Slides.pptx
+* Final_Demo.mp4
+* crontab.txt
+* hostmonitor.sh (to monitor a host)
+* internetmonitor.sh (to monitor any url on the web)
+* ondemand.sh (to provide website host in command line)
+* purge.sh (to purge the log files older than 30 minutes)
 
 Running the tests:
 1. Install traceroute function ("sudo apt-get install traceroute")
